@@ -1,4 +1,4 @@
-# import librarya
+# import library
 import paho.mqtt.client as mqtt
 import numpy
 
